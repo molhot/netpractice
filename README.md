@@ -1,0 +1,2 @@
+# netpractice
+netpractice用のレポジトリーです
